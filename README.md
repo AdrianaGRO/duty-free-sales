@@ -24,10 +24,10 @@ Initially build in Google Colab, I switched to VS Code for Day 6 Streamlit dashb
 
 #### Files 📂
 
-**Notebooks:** DutyFreeSalesAnalyzer_Day2.ipynb, DutyFreeSalesAnalyzer_Day3.ipynb, DutyFreeSalesAnalyzer_Day4.ipynb, DutyFreeSalesAnalyzer_Day5.ipynb
-**Day 6 App:** app.py (Streamlit dashboard)
-**Data:** duty_free_sales.xlsx (31,264 units), duty_free_sales_day3.xlsx, promo.csv
-**Outputs:** sales_summary_day2.txt, sales_summary_day3.txt, sales_summary_day4.txt, sales_summary_day5.txt, trends_plot.png, trends_plot_day4.png, trends_plot_day5.png
+- **Notebooks:** DutyFreeSalesAnalyzer_Day2.ipynb, DutyFreeSalesAnalyzer_Day3.ipynb, DutyFreeSalesAnalyzer_Day4.ipynb, DutyFreeSalesAnalyzer_Day5.ipynb
+- **Day 6 App:** app.py (Streamlit dashboard)
+- **Data:** duty_free_sales.xlsx (31,264 units), duty_free_sales_day3.xlsx, promo.csv
+- **Outputs:** sales_summary_day2.txt, sales_summary_day3.txt, sales_summary_day4.txt, sales_summary_day5.txt, trends_plot.png, trends_plot_day4.png, trends_plot_day5.png
 
 ##### Author
 
